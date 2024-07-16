@@ -1,0 +1,13 @@
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\config\AppConfig.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\controller\ProductController.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\model\Category.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\model\Product.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\ProductServiceApplication.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\service\impl\FakeStoreProductServiceImpl.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\service\impl\RealStoreProductService.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\service\mapper\FakeStoreProductDtoToProductMapper.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\service\ProductService.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\ws\client\fakeStore\constant\FakeStoreConstants.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\ws\client\fakeStore\FakeStoreProductServiceWsClient.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\ws\client\fakeStore\mapper\ProductToFakeStoreProductDtoMapper.java
+C:\Users\tarun\IdeaProjects\ScalerProjects\ProductService\src\main\java\com\scaler\productservice\ws\client\fakeStore\model\FakeStoreProductDto.java

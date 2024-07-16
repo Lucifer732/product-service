@@ -1,0 +1,13 @@
+com\scaler\productservice\ws\client\fakeStore\mapper\ProductToFakeStoreProductDtoMapper.class
+com\scaler\productservice\model\Product.class
+com\scaler\productservice\service\mapper\FakeStoreProductDtoToProductMapper.class
+com\scaler\productservice\controller\ProductController.class
+com\scaler\productservice\ws\client\fakeStore\model\FakeStoreProductDto.class
+com\scaler\productservice\ProductServiceApplication.class
+com\scaler\productservice\ws\client\fakeStore\FakeStoreProductServiceWsClient.class
+com\scaler\productservice\config\AppConfig.class
+com\scaler\productservice\model\Category.class
+com\scaler\productservice\service\ProductService.class
+com\scaler\productservice\service\impl\FakeStoreProductServiceImpl.class
+com\scaler\productservice\ws\client\fakeStore\constant\FakeStoreConstants.class
+com\scaler\productservice\service\impl\RealStoreProductService.class
